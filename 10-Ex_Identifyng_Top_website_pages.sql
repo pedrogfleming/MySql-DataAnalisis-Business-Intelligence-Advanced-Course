@@ -39,5 +39,4 @@ Thanks!
 NEXT STEPS
 .	Dig into whether this list is also representative of our top entry pages
 .	Analyze the performance of each of our top pages to look for improvement opportunities
-
 */

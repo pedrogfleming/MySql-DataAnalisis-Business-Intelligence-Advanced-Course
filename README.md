@@ -1,4 +1,6 @@
 # MySql-DataAnalisis-Business-Intelligence-Advanced-Course
+[Advanced SQL: MySQL Data Analysis & Business Intelligence](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)
+
 Traffic Analysis & Optimization
 
 In this section we’ll use MySQL to analyze where our website traffic is coming from, how different sources perform in terms of traffic volume and conversion rates, and how we can adjust bids to optimize our budgets.
